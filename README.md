@@ -35,8 +35,7 @@ Both pages feature simple, clean styling:
 - Bootstrap Icons are included from CDN.
 
 ## Author
-- Landing Page: [Your Name]
-- Portfolio Page: Joao Melo
+- Joao Melo
 
 ## License
 This code is provided under the [MIT License](LICENSE.md). Feel free to use and modify it for your projects.
